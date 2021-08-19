@@ -3,7 +3,9 @@
 - 🌱 I’m currently studying Information Management. They expect us to be future CIO or CTO 😏
 - 💞️ I’m looking to collaborate on Cybersecurity resources and knowledge. Yay!
 - 📫 How to reach me
-Feel free to connect at LI https://www.linkedin.com/in/samuelacz/
+- Feel free to connect at LI https://www.linkedin.com/in/samuelacz/
+
+#icanmakeit
 
 <!---
 samujelapryc/samujelapryc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
